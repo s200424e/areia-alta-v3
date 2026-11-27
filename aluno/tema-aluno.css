@@ -1,0 +1,13 @@
+/* Gerado por scripts/preparar_aluno.py a partir do css/tema.css. Não edite à mão: rode o script de novo. */
+:root {
+  --destaque: #4DB3FF;
+  --destaque-claro: #D6EEFF;
+  --sol: #FFD23F;
+  --cta: #FF7A1A;
+  --grad: linear-gradient(100deg, #FF7A1A 0%, #FFA41F 55%, #FFC629 100%);
+  --marinho: #0A2540;
+  --titulo: "Bricolage Grotesque", system-ui, sans-serif;
+  --texto: "Inter", system-ui, sans-serif;
+}
+:root { --amarelo: #4DB3FF; --amarelo-claro: #D6EEFF; --preto: #0A2540; --tinta: #0A2540; --laranja: #FFD23F; --laranja-forte: #FFD23F; --vermelho: #FF7A1A; --areia: #F4F7FB; } /* nomes dos modelos 2/3 traduzidos */
+:root { --escala-titulo: .62; --peso-titulo: 800; } /* fonte de título mais larga que a Six Caps */

@@ -1,0 +1,13 @@
+/* Identidade do cliente no modelo 3: cores e fontes.
+   Papéis: --destaque (cor principal), --sol (acento/grifo), --cta (botões), --marinho (bloco "agora").
+   O fundo e os blocos (claro/escuro) ficam no v3.css. Exemplo: Areia Alta (arena fictícia). */
+:root {
+  --destaque: #4DB3FF;
+  --destaque-claro: #D6EEFF;
+  --sol: #FFD23F;
+  --cta: #FF7A1A;
+  --grad: linear-gradient(100deg, #FF7A1A 0%, #FFA41F 55%, #FFC629 100%);
+  --marinho: #0A2540;
+  --titulo: "Bricolage Grotesque", system-ui, sans-serif;
+  --texto: "Inter", system-ui, sans-serif;
+}
